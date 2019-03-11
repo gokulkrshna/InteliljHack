@@ -1,4 +1,4 @@
-# InteliljHack
+# IntellijHack
 Automatic deletion of Intellij Folder every 15 days for continuous free usage
 
 Add job in user cron tab:-
